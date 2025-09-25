@@ -1,7 +1,8 @@
 
   # WORQLEY
 
-  This is a code bundle for WORQLEY. The original project is available at https://www.figma.com/design/Ir4uJKnarLSyHIdxH75bnU/WORQLEY.
+  This is a code bundle for WORQLEY. 
+  
 
   ## Running the code
 
